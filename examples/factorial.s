@@ -1,5 +1,5 @@
-; Program to calculate factorial using looping
-NUM: DW 0x6     ; calculate factorial of 6 
+; Program to calculate factorial 
+NUM: DW 0x4     ; calculate factorial of 4 
 RESULT: DW 0    ; place to store the reult
 
 ; actual entry point of the program
